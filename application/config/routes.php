@@ -56,3 +56,4 @@ $route['translate_uri_dashes'] = FALSE;
 $route['categoria_producto/(:any)'] = 'Inicio/categoria/$1';
 $route['detalle/(:any)'] = 'Inicio/detalle/$1';
 $route['nuestras_promociones'] = 'inicio/promociones';
+$route['nuestros_locales'] = 'locales/index';

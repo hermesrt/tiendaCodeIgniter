@@ -8,7 +8,7 @@
     <div class="carousel-item active">
       <img class="d-block w-100" src="https://picsum.photos/1920/600?image=2&blur" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-          <h5 class="text-dark">Titulo</h5>
+          <a class="btn btn-primary" href="<?php echo base_url('nuestros_locales')?>">Nuestros locales</a>
         </div>
     </div>
     <div class="carousel-item">
